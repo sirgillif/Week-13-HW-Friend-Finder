@@ -1,0 +1,27 @@
+{
+  "name": "friendfinder",
+  "version": "0.1.0",
+  "description": "the not dating app, dating app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirgillif/Week-13-HW-Friend-Finder.git"
+  },
+  "author": "Patrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirgillif/Week-13-HW-Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/sirgillif/Week-13-HW-Friend-Finder#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  },
+  "engines":{
+    "node":"v4.4.5:
+  }
+}
